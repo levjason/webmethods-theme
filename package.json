@@ -1,9 +1,9 @@
 {
-    "name": "pink-theme",
-    "displayName": "Huacat Pink Theme",
-    "description": "A cool pink theme for VScode.",
-    "publisher": "huacat",
-    "version": "0.3.4",
+    "name": "wmio-theme",
+    "displayName": "webMethods.io Theme",
+    "description": "A theme for  Theia in webmethods.io.",
+    "publisher": "Software AG",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.33.0"
     },
@@ -25,10 +25,13 @@
     "contributes": {
         "themes": [
             {
-                "label": "Huacat Pink Theme",
+                "label": "webmethods.io Theme",
                 "uiTheme": "vs",
-                "path": "./themes/pink-theme-color-theme.json"
+                "path": "./themes/wmio-theme-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "vsce": "^2.3.0"
     }
 }
