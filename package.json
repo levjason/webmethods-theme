@@ -1,7 +1,7 @@
 {
-    "name": "wmio-theme",
-    "displayName": "webMethods.io Theme",
-    "description": "A theme for  Theia in webmethods.io.",
+    "name": "webmethods-theme",
+    "displayName": "webMethods Theme",
+    "description": "A webMethods theme for  Theia",
     "publisher": "Software AG",
     "version": "0.1.0",
     "engines": {
@@ -13,21 +13,19 @@
     "keywords": [
         "theme",
         "light theme",
-        "pink",
-        "pink theme",
-        "huacat pink theme"
+        "webmethods theme"
     ],
     "icon": "logo.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/huacat1017/huacat.pink-theme"
+        "url": "https://github.com/levjason/webmethods-theme.git"
     },
     "contributes": {
         "themes": [
             {
                 "label": "webmethods.io Theme",
                 "uiTheme": "vs",
-                "path": "./themes/wmio-theme-color-theme.json"
+                "path": "./themes/webmethods-theme-color-theme.json"
             }
         ]
     },
