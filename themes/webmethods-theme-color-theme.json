@@ -14,8 +14,8 @@
 		"textBlockQuote.background": "#f5eaf5",
 		"textBlockQuote.border": "#dd71b977",
 		// activity bar
-		"activityBar.background": "#f5eaf5",
-		"activityBar.foreground": "#dd71b9",
+		"activityBar.background": "#1776bf",
+		"activityBar.foreground": "#ffffff",
 		"activityBar.inactiveForeground": "#dd71b977",
 		"activityBarBadge.background": "#dd71b9",
 
@@ -26,8 +26,8 @@
 		"dropdown.background": "#ffffff",
 
 		// editor
-		"editor.background": "#f5eaf5",
-		"editor.foreground": "#72696f",
+		"editor.background": "#ffffff",
+		"editor.foreground": "#333333",
 		"editor.findMatchBackground": "#ecc3e198",
 		"editor.findMatchBorder": "#dd71b9",
 		"editor.findMatchHighlightBackground": "#ecc3e15d",
