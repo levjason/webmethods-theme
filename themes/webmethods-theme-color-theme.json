@@ -89,7 +89,7 @@
 		"notificationCenterHeader.background": "#f5eaf5",
 		"notifications.background": "#f5eaf5",
 		"notifications.foreground": "#F2F2F2",
-		"panel.background": "#f5eaf5",
+		"panel.background": "#f2f2f2",
 		//peek view
 		"peekView.border": "#F2F2F2",
 		"peekViewEditor.background": "#f5eaf5",
@@ -130,10 +130,10 @@
 		//"statusBarItem.remoteBackground": "#4e3c69",
 		// tab
 		"tab.activeBorder": "#F2F2F2",
-		"editorGroupHeader.tabsBackground": "#f5eaf5",
-		"tab.activeBackground": "#f5eaf5",
-		"tab.border": "#f5eaf5",
-		"tab.inactiveBackground": "#f5eaf5",
+		"editorGroupHeader.tabsBackground": "#f2f2f2",
+		"tab.activeBackground": "#fff",
+		"tab.border": "#f2f2f2",
+		"tab.inactiveBackground": "#fff",
 		// terminal
 		"terminal.ansiBlack": "#38313b",
 		"terminal.ansiBrightBlack": "#6b5d72",
