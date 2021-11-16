@@ -16,8 +16,8 @@
 		// activity bar
 		"activityBar.background": "#1776bf",
 		"activityBar.foreground": "#ffffff",
-		"activityBar.inactiveForeground": "#dd71b977",
-		"activityBarBadge.background": "#dd71b9",
+		"activityBar.inactiveForeground": "#ffffff",
+		"activityBarBadge.background": "#125a91",
 
 		"badge.background": "#dd71b9aa",
 		"breadcrumbPicker.background": "#f5eaf5",
@@ -110,7 +110,7 @@
 		// menu
 		"menubar.selectionBackground": "#f5eaf5",
 		"menubar.selectionForeground": "#dd71b9",
-		"menu.background": "#f5eaf5",
+		"menu.background": "#1776bf",
 
 		// minimap
 		"minimap.selectionHighlight": "#ecc3e15d",
@@ -120,8 +120,8 @@
 		"sideBar.background": "#f5eaf5",
 		"sideBarSectionHeader.background": "#f5eaf5",
 		//status bar
-		"statusBar.background": "#f5eaf5",
-		"statusBar.foreground": "#dd71b9",
+		"statusBar.background": "#1776bf",
+		"statusBar.foreground": "#ffffff",
 		"statusBar.debuggingBackground": "#9045d6",
 		"statusBar.debuggingForeground": "#f5eaf5",
 		"statusBar.noFolderBackground": "#f5eaf5",
