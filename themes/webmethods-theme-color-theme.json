@@ -108,7 +108,7 @@
 		"scrollbarSlider.hoverBackground": "#f0cef1aa",
 
 		// menu
-		"menubar.selectionBackground": "#f2f2f2",
+		"menubar.selectionBackground": "#333333",
 		"menubar.selectionForeground": "#333333",
 		"menu.background": "#f2f2f2",
 
