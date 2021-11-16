@@ -23,7 +23,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "webmethods.io Theme",
+                "label": "webmethods-theme",
                 "uiTheme": "vs",
                 "path": "./themes/webmethods-theme-color-theme.json"
             }
