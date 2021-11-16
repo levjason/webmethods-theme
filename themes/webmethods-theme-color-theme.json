@@ -6,7 +6,7 @@
 		"foreground": "#72696f",
 		"focusBorder": "#d4d4d4",
 		"selection.background": "#F2F2F2",
-		"icon.foreground": "#F2F2F2",
+		"icon.foreground": "#Ffffff",
 		// Text
 		"textLink.activeForeground": "#F2F2F2",
 		"textLink.foreground": "#F2F2F2",
