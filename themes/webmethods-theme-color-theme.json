@@ -108,10 +108,10 @@
 		"scrollbarSlider.hoverBackground": "#f0cef1aa",
 
 		// menu
-		"menubar.selectionBackground": "#555555",
+		"menubar.selectionBackground": "#ffffff",
 		"menubar.selectionForeground": "#333333",
 		"menu.background": "#f2f2f2",
-		"menu.foreground": "#72696f",
+		"menu.foreground": "#333333",
 
 		// minimap
 		"minimap.selectionHighlight": "#ecc3e15d",
