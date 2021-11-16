@@ -21,7 +21,7 @@
 
 		"badge.background": "#F2F2F2",
 		"breadcrumbPicker.background": "#f5eaf5",
-		"button.background": "#F2F2F2",
+		"button.background": "#1776bf",
 
 		"dropdown.background": "#ffffff",
 
@@ -157,8 +157,8 @@
 		"terminal.ansiWhite": "#72696f",
 		"terminal.ansiBrightWhite": "#978c94",
 		"terminalCursor.foreground": "#F2F2F2",
-		"terminal.background": "#f5eaf5",
-		"terminal.foreground": "#72696f",
+		"terminal.background": "#f2f2f2",
+		"terminal.foreground": "#333333",
 
 		"titleBar.activeBackground": "#f2f2f2",
 		"titleBar.activeForeground": "#72696f",
