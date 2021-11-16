@@ -8,20 +8,20 @@
 		"selection.background": "#E5E5E4",
 		"icon.foreground": "#E5E5E4",
 		// Text
-		"textLink.activeForeground": "#dd71b999",
+		"textLink.activeForeground": "#E5E5E4",
 		"textLink.foreground": "#E5E5E4",
 		"textPreformat.foreground": "#9045d6",
 		"textBlockQuote.background": "#f5eaf5",
-		"textBlockQuote.border": "#dd71b977",
+		"textBlockQuote.border": "#E5E5E4",
 		// activity bar
 		"activityBar.background": "#1776bf",
 		"activityBar.foreground": "#ffffff",
 		"activityBar.inactiveForeground": "#ffffff",
 		"activityBarBadge.background": "#125a91",
 
-		"badge.background": "#dd71b9aa",
+		"badge.background": "#E5E5E4",
 		"breadcrumbPicker.background": "#f5eaf5",
-		"button.background": "#dd71b9aa",
+		"button.background": "#E5E5E4",
 
 		"dropdown.background": "#ffffff",
 
@@ -44,7 +44,7 @@
 		"editorGroup.dropBackground": "#ecc3e15d",
 		"editorHoverWidget.background": "#f5eaf5",
 		"editorHoverWidget.foreground": "#72696f",
-		"editorHoverWidget.border": "#dd71b977",
+		"editorHoverWidget.border": "#E5E5E4",
 		"editorHoverWidget.statusBarBackground": "#f5eaf5",
 		"editorLineNumber.activeForeground": "#E5E5E4",
 		"editorLineNumber.foreground": "#72696f",
@@ -57,7 +57,7 @@
 
 		// extension
 		"extensionButton.prominentBackground": "#E5E5E4",
-		"extensionButton.prominentHoverBackground": "#dd71b9aa",
+		"extensionButton.prominentHoverBackground": "#E5E5E4",
 		// git
 		"gitDecoration.addedResourceForeground": "#62ad44",
 		"gitDecoration.conflictingResourceForeground": "#ebc548",
@@ -151,7 +151,7 @@
 		"terminal.ansiBrightYellow": "#ebc548",
 		"terminal.ansiWhite": "#72696f",
 		"terminal.ansiBrightWhite": "#978c94",
-		"terminalCursor.foreground": "#dd71b9aa",
+		"terminalCursor.foreground": "#E5E5E4",
 		"terminal.background": "#f5eaf5",
 		"terminal.foreground": "#72696f",
 
