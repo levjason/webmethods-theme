@@ -117,8 +117,8 @@
 		"minimap.findMatchHighlight": "#ecc3e15d",
 
 		//side bar
-		"sideBar.background": "#f5eaf5",
-		"sideBarSectionHeader.background": "#f5eaf5",
+		"sideBar.background": "#E5E5E4",
+		"sideBarSectionHeader.background": "#E5E5E4",
 		//status bar
 		"statusBar.background": "#1776bf",
 		"statusBar.foreground": "#ffffff",
