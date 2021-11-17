@@ -99,13 +99,13 @@
 		"peekViewResult.matchHighlightBackground": "#e5e5e4",
 		"peekViewTitle.background": "#f2f2f2",
 
-		"pickerGroup.border": "#dd71b980",
+		"pickerGroup.border": "#cccccb",
 		"pickerGroup.foreground": "#F2F2F2",
 		"progressBar.background": "#F2F2F2",
 		//scroll bar
-		"scrollbarSlider.background": "#dfdfdf",
-		"scrollbarSlider.activeBackground": "#f0b7f0cc",
-		"scrollbarSlider.hoverBackground": "#f0cef1aa",
+		"scrollbarSlider.background": "#e5e5e4",
+		"scrollbarSlider.activeBackground": "#cccccb",
+		"scrollbarSlider.hoverBackground": "#cccccb",
 
 		// menu
 		
