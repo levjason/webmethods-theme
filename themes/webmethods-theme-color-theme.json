@@ -82,8 +82,8 @@
 		"list.highlightForeground": "#f2f2f2",
 		"list.hoverBackground": "#1776bf",
 		"list.hoverForeground": "#ffffff",
-		"list.inactiveSelectionBackground": "#f5eaf560",
-		"list.inactiveSelectionForeground": "#F2F2F2",
+		"list.inactiveSelectionBackground": "#f2f2f2",
+		"list.inactiveSelectionForeground": "#333333",
 		"list.dropBackground": "#f5eaf5",
 		//notification
 		"notificationCenterHeader.background": "#f5eaf5",
