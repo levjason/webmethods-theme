@@ -52,7 +52,7 @@
 		"editorMarkerNavigation.background": "#f5eaf5",
 		"editorMarkerNavigationError.background": "#d14040",
 		"editorWhitespace.foreground": "#aaaaaa",
-		"editorWarning.foreground": "#e2b213",
+		"editorWarning.foreground": "#ff801f",
 		"errorForeground": "#f1897f",
 
 		// extension
@@ -73,7 +73,7 @@
 		"inputValidation.infoBackground": "#f2fcff",
 		"inputValidation.infoBorder": "#4ec1e5",
 		"inputValidation.warningBackground": "#fffee2",
-		"inputValidation.warningBorder": "#ffe055",
+		"inputValidation.warningBorder": "#ff801f",
 		// List
 		"list.activeSelectionBackground": "#1776bf",
 		"list.activeSelectionForeground": "#ffffff",
