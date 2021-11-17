@@ -165,7 +165,7 @@
 		"titleBar.inactiveBackground": "#f2f2f2",
 		"titleBar.inactiveForeground": "#978c94",
 
-		"quickInput.background": "#f5eaf5",
+		"quickInput.background": "#cccccb",
 		// welcome page
 		"welcomePage.buttonBackground": "#ecc3e158",
 		"welcomePage.buttonHoverBackground": "#ecc3e198",
