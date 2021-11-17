@@ -93,11 +93,11 @@
 		//peek view
 		"peekView.border": "#F2F2F2",
 		"peekViewEditor.background": "#f5eaf5",
-		"peekViewEditor.matchHighlightBackground": "#ecc3e15d",
+		"peekViewEditor.matchHighlightBackground": "#e5e5e4",
 		"peekViewResult.background": "#f5eaf5",
-		"peekViewResult.selectionBackground": "#f0b7f0cc",
-		"peekViewResult.matchHighlightBackground": "#ecc3e198",
-		"peekViewTitle.background": "#f5eaf5",
+		"peekViewResult.selectionBackground": "#1776bf",
+		"peekViewResult.matchHighlightBackground": "#e5e5e4",
+		"peekViewTitle.background": "#f2f2f2",
 
 		"pickerGroup.border": "#dd71b980",
 		"pickerGroup.foreground": "#F2F2F2",
