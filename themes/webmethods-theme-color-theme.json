@@ -48,7 +48,7 @@
 		"editorHoverWidget.statusBarBackground": "#f5eaf5",
 		"editorLineNumber.activeForeground": "#F2F2F2",
 		"editorLineNumber.foreground": "#72696f",
-		"editorLink.activeForeground": "#dd71b9d5",
+		"editorLink.activeForeground": "#f2f2f2",
 		"editorMarkerNavigation.background": "#f5eaf5",
 		"editorMarkerNavigationError.background": "#d14040",
 		"editorWhitespace.foreground": "#aaaaaa",
