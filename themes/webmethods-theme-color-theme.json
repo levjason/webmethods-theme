@@ -92,9 +92,9 @@
 		"panel.background": "#f2f2f2",
 		//peek view
 		"peekView.border": "#F2F2F2",
-		"peekViewEditor.background": "#f5eaf5",
+		"peekViewEditor.background": "#cccccb",
 		"peekViewEditor.matchHighlightBackground": "#e5e5e4",
-		"peekViewResult.background": "#f5eaf5",
+		"peekViewResult.background": "#cccccb",
 		"peekViewResult.selectionBackground": "#1776bf",
 		"peekViewResult.matchHighlightBackground": "#e5e5e4",
 		"peekViewTitle.background": "#f2f2f2",
