@@ -40,7 +40,7 @@
 		"editorCursor.foreground": "#54494b",
 		"editorBracketMatch.background": "#f5eaf5",
 		"editorBracketMatch.border": "#ccccc1",
-		"editorError.foreground": "#d14040",
+		"editorError.foreground": "#e0000e",
 		"editorGroup.dropBackground": "#ccccce",
 		"editorHoverWidget.background": "#f5eaf5",
 		"editorHoverWidget.foreground": "#72696f",
@@ -53,7 +53,7 @@
 		"editorMarkerNavigationError.background": "#d14040",
 		"editorWhitespace.foreground": "#aaaaaa",
 		"editorWarning.foreground": "#ff801f",
-		"errorForeground": "#f1897f",
+		"errorForeground": "#cccccc",
 
 		// extension
 		"extensionButton.prominentBackground": "#F2F2F2",
@@ -86,9 +86,9 @@
 		"list.inactiveSelectionForeground": "#333333",
 		"list.dropBackground": "#f5eaf5",
 		//notification
-		"notificationCenterHeader.background": "#f5eaf5",
-		"notifications.background": "#f5eaf5",
-		"notifications.foreground": "#F2F2F2",
+		"notificationCenterHeader.background": "#b3b3b3",
+		"notifications.background": "#b3b3b3",
+		"notifications.foreground": "#333333",
 		"panel.background": "#f2f2f2",
 		//peek view
 		"peekView.border": "#F2F2F2",
