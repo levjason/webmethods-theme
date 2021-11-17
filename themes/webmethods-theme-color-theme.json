@@ -138,7 +138,7 @@
 		"editorGroupHeader.tabsBackground": "#f2f2f2",
 		"tab.activeBackground": "#fff",
 		"tab.border": "#f2f2f2",
-		"tab.inactiveBackground": "#fff",
+		"tab.inactiveBackground": "#f2f2f2",
 		// terminal
 		"terminal.ansiBlack": "#38313b",
 		"terminal.ansiBrightBlack": "#6b5d72",
