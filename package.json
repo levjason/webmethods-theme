@@ -23,11 +23,18 @@
     "contributes": {
         "themes": [
             {
-                "label": "webmethods-theme",
+                "label": "webMethods-light-theme",
                 "uiTheme": "vs",
                 "path": "./themes/webmethods-theme-color-theme.json"
             }
-        ]
+        ],
+        "iconThemes": [
+            {
+              "id": "webMethodsIcons",
+              "label": "webMethods icons",
+              "path": "./themes/webmethods-icon-theme.json"
+            }
+          ]
     },
     "dependencies": {
         "vsce": "^2.3.0"

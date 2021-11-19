@@ -1,0 +1,35 @@
+{
+	"iconDefinitions": {
+
+        "_java": {
+			"iconPath": "../icons/dlt-icon-java_file.svg"
+		}
+
+	},
+
+	"fileExtensions": {
+		// icons by file extension
+        "java" : "_java" 
+		},
+	"fileNames": {
+		// icons by file name
+	},
+	"languageIds": {
+		// icons by language id
+	},
+	"light": {
+
+		"fileExtensions": {
+			// icons by file extension
+		},
+		"fileNames": {
+			// icons by file name
+		},
+		"languageIds": {
+			// icons by language id
+		}
+	},
+	"highContrast": {
+		// overrides for high contrast
+	}
+}
