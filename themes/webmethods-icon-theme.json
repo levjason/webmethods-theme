@@ -2,7 +2,7 @@
 	"iconDefinitions": {
 
         "_java": {
-			"iconPath": "../icons/dlt-icon-java-file.svg"
+			"iconPath": "../icons/dlt-icon-java_file.svg"
 		},
         "_folderExpanded": {
 			"iconPath": "../icons/dlt-icon-folder-open.svg"
