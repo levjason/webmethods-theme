@@ -2,11 +2,18 @@
 	"iconDefinitions": {
 
         "_java": {
-			"iconPath": "../icons/dlt-icon-java_file.svg"
+			"iconPath": "../icons/dlt-icon-folder-open.svg"
+		},
+        "_folderExpanded": {
+			"iconPath": "../icons/dlt-icon-folder-open.svg"
+		},
+        "_folder": {
+			"iconPath": "../icons/dlt-icon-folder.svg"
 		}
 
 	},
-
+    "folderExpanded": "_folderExpanded",
+	"folder": "_folder",
 	"fileExtensions": {
 		// icons by file extension
         "java" : "_java" 
