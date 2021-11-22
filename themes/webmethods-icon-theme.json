@@ -24,7 +24,8 @@
 		// icons by file extension
         "java" : "_java",
 		"md" : "_md",
-		"json" : "_file"
+		"json" : "_file",
+		"txt" : "_file",
 		},
 	"fileNames": {
 		// icons by file name
