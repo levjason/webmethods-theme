@@ -6,6 +6,7 @@
 		"foreground": "#72696f",
 		"focusBorder": "#d4d4d4",
 		"selection.background": "#F2F2F2",
+		"peekViewResult.selectionForeground": "#ff0000",
 		"icon.foreground": "#333333",
 		// Text
 		"textLink.activeForeground": "#F2F2F2",
@@ -117,6 +118,11 @@
 		"pickerGroup.border": "#cccccb",
 		"pickerGroup.foreground": "#F2F2F2",
 		"progressBar.background": "#F2F2F2",
+		"quickInputList.focusForeground": "#ff0000",
+		"quickInput.foreground": "#ff0000",
+		"quickInputList.focusBackground": "#ff0000",
+		"quickInputList.focusIconForeground": "#ff0000",
+
 		//scroll bar
 		"scrollbarSlider.background": "#e5e5e4",
 		"scrollbarSlider.activeBackground": "#cccccb",
