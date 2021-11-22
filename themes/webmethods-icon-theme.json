@@ -7,6 +7,9 @@
 		"_md": {
 			"iconPath": "../icons/dlt-icon-book.svg"
 		},
+		"_file": {
+			"iconPath": "../icons/dlt-icon-file-type-document.svg"
+		},
         "_folderExpanded": {
 			"iconPath": "../icons/dlt-icon-folder-open.svg"
 		},
@@ -20,7 +23,8 @@
 	"fileExtensions": {
 		// icons by file extension
         "java" : "_java",
-		"md" : "_md"
+		"md" : "_md",
+		"json" : "_file"
 		},
 	"fileNames": {
 		// icons by file name
