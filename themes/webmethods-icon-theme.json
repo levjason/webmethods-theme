@@ -4,6 +4,9 @@
         "_java": {
 			"iconPath": "../icons/dlt-icon-java_file.svg"
 		},
+		"_md": {
+			"iconPath": "../icons/dlt-icon-book.svg"
+		},
         "_folderExpanded": {
 			"iconPath": "../icons/dlt-icon-folder-open.svg"
 		},
@@ -16,7 +19,8 @@
 	"folder": "_folder",
 	"fileExtensions": {
 		// icons by file extension
-        "java" : "_java" 
+        "java" : "_java",
+		"md" : "_md"
 		},
 	"fileNames": {
 		// icons by file name
