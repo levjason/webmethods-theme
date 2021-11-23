@@ -22,7 +22,11 @@
 
 		"badge.background": "#F2F2F2",
 		"breadcrumbPicker.background": "#f5eaf5",
+		"breadcrumb.activeSelectionForeground": "#ff0000",
+		"breadcrumb.background": "#ff0000",
 		"button.background": "#1776bf",
+		"breadcrumb.focusForeground": "#ff0000",
+		"breadcrumb.foreground": "#ff0000",
 
 		"dropdown.background": "#ffffff",
 
