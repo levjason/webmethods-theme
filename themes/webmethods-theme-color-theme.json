@@ -206,10 +206,8 @@
 		"titleBar.inactiveBackground": "#f2f2f2",
 		"titleBar.inactiveForeground": "#978c94",
 
-		"quickInput.background": "#cccccb",
-		// welcome page
-		"welcomePage.buttonBackground": "#ecc3e158",
-		"welcomePage.buttonHoverBackground": "#ecc3e198",
+		"quickInput.background": "#f2f2f2",
+	
 		"walkThrough.embeddedEditorBackground": "#f5eaf5",
 
 		// debug tool
