@@ -5,7 +5,7 @@
 		// Base
 		"foreground": "#72696f",
 		"focusBorder": "#d4d4d4",
-		"selection.background": "#F2F2F2",
+		"selection.background": "#Ffffff",
 		"peekViewResult.selectionForeground": "#ff0000",
 		"icon.foreground": "#333333",
 		// Text
@@ -82,7 +82,7 @@
 		"list.focusForeground": "#333333",
 		"list.highlightForeground": "#f2f2f2",
 		"list.hoverBackground": "#Ffffff",
-		"list.hoverForeground": "#ffffff",
+		"list.hoverForeground": "#333333",
 		"list.inactiveSelectionBackground": "#f2f2f2",
 		"list.inactiveSelectionForeground": "#333333",
 		"list.dropBackground": "#f2f2f2",
